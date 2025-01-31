@@ -1,0 +1,7 @@
+# Feedback
+
+### _from Thomas_
+
+"Without any context beyond the p5js file,  I imagine the background was drawn first upon which the slideshow reel was then drawn or displayed at around (200,200) so that it fits within canvas then finally the text and the font are added at the bottom."
+
+"[Regarding doing anything differently,] I can say for yours i probably just would have found a way to just place the image itself and had a limited canvas so it would stretch hopefully"
